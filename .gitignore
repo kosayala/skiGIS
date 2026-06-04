@@ -1,0 +1,21 @@
+# Credentials
+.env
+
+# Python
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# QGIS project files (contain local paths, don't share)
+*.qgz
+*.qgs
+
+# Large raster files
+*.tif
+*.tiff
